@@ -1,0 +1,34 @@
+body,html{
+        height: 100%;
+        width: 100%;
+        margin: 0;
+}
+.row{
+    height: 95%;
+    width: 100%;
+}
+
+.left{  width: 25%;
+        height: 100%;
+        float: left;
+        background-color: white;
+        border-collapse: collapse;
+}
+.center{
+        width: 50%;
+        height: 100%;
+        float: left;
+        box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        background-color: whitesmoke;
+        border-collapse: collapse;
+}
+.right{
+        width: 25%;
+        height: 100%;
+        float: right;
+        position: relative;
+        background-color: white;
+        border-collapse: collapse;
+
+}
+
